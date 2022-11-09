@@ -37,3 +37,7 @@ $$ \upsilon=\omega *R $$
 ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/114554646/200735405-4411bb22-abf8-448f-974f-e1ee85d2edc2.png)
 
 
+$$ \bar{E}^{2}=\sqrt{\frac{F\alpha^{x-1}}{(x-1)\cdot x}} + \alpha_{1}^{\frac{1}{3}} +\beta_{2}^{\frac{2}{3}} $$
+
+![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/114554646/200738164-ebaa3836-ac12-40d9-b029-657e9ca51d25.png)
+
