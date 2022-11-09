@@ -24,4 +24,16 @@ $$ E=mc^2 $$
 
 (A\wedge B)\wedge C = A \wedge (B \wedge C)
 
-![lagrida_latex_editor](https://user-images.githubusercontent.com/114554646/198190642-e737b53c-d818-4a22-abed-ba80149247c5.png)
+![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114554646/200735667-df152559-df26-44c0-b7ee-182ade37c377.png)
+
+$$ \bar{E}^{2}=\sqrt{\frac{F\alpha^{x-1}}{()x-1)x}} + \alpha_{1}^{\frac{1}{3}} +\beta_{2}^{\frac{2}{3}} $$
+
+
+
+$$ S=vt $$
+![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/114554646/200734999-9d7ae14c-ca0b-4a74-a79a-a583f5b71e4a.png)
+
+$$ \upsilon=\omega *R $$
+![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/114554646/200735405-4411bb22-abf8-448f-974f-e1ee85d2edc2.png)
+
+
