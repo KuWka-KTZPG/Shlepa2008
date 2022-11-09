@@ -22,7 +22,7 @@ oHngBPaNUP8.jpg - нейронка
 
 $$ E=mc^2 $$
 
-(A\wedge B)\wedge C = A \wedge (B \wedge C)
+$$ (A\wedge B)\wedge C = A \wedge (B \wedge C) $$
 
 ![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114554646/200735667-df152559-df26-44c0-b7ee-182ade37c377.png)
 
