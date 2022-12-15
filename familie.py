@@ -8,7 +8,7 @@ def g(pol, familie):
 
 
 def u(familie):
-    fam_glas=list('уеаоэяию')
+    fam_glas=list('уеаоэёяию')
     for i in familie:
         if i in fam_glas:
             print(i)
