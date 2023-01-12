@@ -8,7 +8,17 @@ for N in range(516):
     if int(b, 2) > 516:
         print(N)
         break
-
+def f5_1():
+    for i in range(1, 100):
+        s = bin(i)[2:] # перевод в двоичную систему
+        s = str(s)
+        if i % 2 == 0:
+            s += "10"
+        else:
+            s = "1" + s + "01"
+        if int(s, 2) > 441:
+            print(i)
+        
 def f6():
     from turtle import *
     left(90)
@@ -21,6 +31,14 @@ def f6():
             goto(x*30,y*30)
             dot(5)
     done()
+def f6_1():
+    s = int(input())
+    s = s // 10
+    n = 1
+    while s < 51:
+        s = s + 5
+        n = n * 2
+    print(n)
 def f8():
     from itertools import product
     nums=product('01234567', repeat=5)
