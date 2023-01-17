@@ -48,8 +48,10 @@ def f8():
     for n in nums:
         numb=''.join(n)
         sp=[]
-        if numb.count('6')==1 and numb:
+        if numb.count('6')==1 and numb[0]!='0':
+            for x in nn:
+                for x in numb:
             sp.append(x)
-        if not sp:
-            k+=1
+            if not sp:
+                k+=1
     print(k)
