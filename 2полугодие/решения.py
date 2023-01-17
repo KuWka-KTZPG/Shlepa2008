@@ -50,8 +50,9 @@ def f8():
         sp=[]
         if numb.count('6')==1 and numb[0]!='0':
             for x in nn:
-                for x in numb:
-            sp.append(x)
+                if x in numb:
+                    sp.append(x)
             if not sp:
                 k+=1
     print(k)
+
