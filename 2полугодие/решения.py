@@ -54,6 +54,13 @@ def f8():
             if not sp:
                 k+=1
     print(k)
+def f12_generator():
+    sp=[]
+    for num in range(2,1000):
+        if all ((num%x!=0)for x in range (2,num-1)):
+            sp.append(num)
+    print(sp)
+f12_generator()
 def f14():
     alfavit=('0123456789abcde')
     for x in alfavit:
