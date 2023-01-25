@@ -18,7 +18,6 @@ def f5_1():
             s = "1" + s + "01"
         if int(s, 2) > 441:
             print(i)
-        
 def f6():
     from turtle import *
     left(90)
@@ -61,4 +60,8 @@ def f14():
         f=int(f'123{x}5',15)+int(f'1{x}233',15)
         if f%14==0:
              print(x, f//14)
-f14()
+def f15():
+    for A in range(1,100):
+        if all (((x%2==0)<=(x%3!=0))or(x+A>=100)for x in range (1,100)):
+            print(A)
+            break
